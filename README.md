@@ -10,5 +10,5 @@ This was developped for educational use. Since it lacks a lot of features a "goo
 * Has only been tested with Windows (packed using pyinstaller)
 * Heavily uses recursive multiprocessing
 
-The related paper on ransomware detection can be found here:  https://julian-wolf.eu/blog/ransowaredetection/
+The related paper on ransomware detection can be found here:  https://julian-wolf.eu/2018/03/07/ransomware-detection/
 
